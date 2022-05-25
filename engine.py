@@ -4,7 +4,7 @@ params = {
   "q": "",
   "hl": "en",
   "gl": "us",
-  "api_key": "5bdc9e6a1aafdb8a94cbfd4bf85aa23b36c648293df4b509f83a73ec9dbdf327"
+  "api_key": "api_key"
 }
 
 query = input('Enter your question: ')
